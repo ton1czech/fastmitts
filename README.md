@@ -1,6 +1,6 @@
 <div align='center'>
     <h1><b>🚀 FASTMITTS 🚀</b></h1>
-    <img src='./doc/icon.png' width='250' height='250' />
+    <img src='./docs/icon.png' width='250' height='250' />
     <p>organized git messages</p>
 </div>
 
@@ -24,10 +24,10 @@ With fastmitts, you can make your commits stand out, add clarity to your code ch
 
 ## 🔎 **SHOWCASE**
 
-![1](./doc/1.png)
-![2](./doc/2.png)
-![3](./doc/3.png)
-![4](./doc/4.png)
+![1](./docs/1.png)
+![2](./docs/2.png)
+![3](./docs/3.png)
+![4](./docs/4.png)
 
 <br />
 
